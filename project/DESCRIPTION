@@ -1,0 +1,8 @@
+Package: inflation
+Title: Inflation
+Description: Scrape data from INE (National Statistics Institute - Portugal) to help calculate and observe inflation data (IHPC.
+Version: 1.0
+Authors@R: person("Daniel", "Tavares",email = "danieljptavares@gmail.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Video: https://youtu.be/agCuRRvRHUE
+RoxygenNote: 7.3.2

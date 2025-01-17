@@ -1,0 +1,5 @@
+export(graph_mean)
+export(max_category)
+export(max_month)
+export(mean_year)
+export(scrape)
